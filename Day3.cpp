@@ -1,5 +1,4 @@
 //Q1
-"""
 #include <iostream>
 using namespace std;
 
@@ -17,9 +16,8 @@ int main() {
 
     return 0;
 }
-"""
+
 //Q2
-"""
 #include <iostream>
 using namespace std;
 
@@ -40,7 +38,6 @@ int main() {
 }
 
 //Q3
-"""
 #include <iostream>
 using namespace std;
 
@@ -58,5 +55,4 @@ int main() {
     return 0;
 }
 
-"""
-"""
+
